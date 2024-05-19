@@ -6,3 +6,11 @@ the demo images
 
 
 ![Screenshot 2024-05-19 153401](https://github.com/Sheethalsheethu/Oasis_infobyte_Web_development_project/assets/135441066/6cd13720-7c61-4e90-a1ce-6a5736ed0376)
+
+
+
+Output 
+
+
+![Screenshot 2024-05-19 153429](https://github.com/Sheethalsheethu/Oasis_infobyte_Web_development_project/assets/135441066/f8ce2baa-ed1d-445c-a8ef-320fc2555a09)
+
